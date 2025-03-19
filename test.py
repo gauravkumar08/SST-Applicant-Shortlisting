@@ -112,7 +112,7 @@ top_students_cleaned = top_students[columns_to_display].fillna("N/A")
 top_students_cleaned["first name"] = top_students_cleaned["first name"].str[:10]
 top_students_cleaned["family income"] = top_students_cleaned["family income"].str.replace("LPA", "L")
 
-print("\n🏆 Top 3 Students (without JEE Mains score):")
+print("\n🏆 Top 3 Students:")
 print(tabulate(top_students_cleaned, headers="keys", tablefmt="plain", 
                stralign="center", numalign="center", 
                colalign=("center", "center", "center", "center", "center", 
