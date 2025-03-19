@@ -31,7 +31,22 @@ A student is shortlisted if:
 - **Interviewers**: Assigned from a fixed list.  
 - **Slots**: 30-minute sessions per candidate.  
 - **Rounds**: Conducted in multiple phases.  
-- **Output**: Interview schedule saved as an Excel file.  
+- **Output**: Interview schedule saved as an Excel file.
+
+## 🏆 Results  
+
+### ✅ Shortlisted Applicants  
+- The number of students meeting the eligibility criteria.  
+- List of top-performing students based on scores.  
+
+### 📉 Performance Insights  
+- The average X and XII scores of the applicants.  
+- Percentage of students shortlisted vs. total applicants.  
+
+### 📅 Interview Allocation  
+- Candidates successfully assigned to interviewers.  
+- Number of interview slots scheduled.  
+
 
 ## 📌 Installation & Usage  
 ### 🔧 Prerequisites  
