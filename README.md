@@ -40,17 +40,18 @@ A student is shortlisted if:
 
 ### ✅ Shortlisted Applicants  
 
-![image](https://github.com/user-attachments/assets/066d31a8-5613-429d-904d-9cd59d2c1572) 
+![image](https://github.com/user-attachments/assets/fb84fd76-ab13-4aae-b202-3f2ed0f0b95f)
+
 
 ### 📉 Performance Insights  
 
-![image](https://github.com/user-attachments/assets/2d19b1ad-4a67-4a26-a755-e5b0012b5466)
-![image](https://github.com/user-attachments/assets/13de5c9d-c915-4be8-a34e-4002dc758070)
+![image](https://github.com/user-attachments/assets/87da46e7-ecdf-4537-b6c4-99cb55b14669)
 
 
 ### 📅 Interview Allocation  
 
-![image](https://github.com/user-attachments/assets/13e4b3f8-3fda-4b62-939d-4b8360d31e4b)
+![image](https://github.com/user-attachments/assets/207e86b3-cc4e-4a0d-b49b-7cebbe8a9e5e)
+
 
 ## 📌 Installation & Usage  
 
