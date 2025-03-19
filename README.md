@@ -1,1 +1,1 @@
-# SST-Applicant-Shortlisting-
+# SST-Applicant-Shortlisting
