@@ -44,12 +44,14 @@ A student is shortlisted if:
 
 ### 📉 Performance Insights  
 
+![image](https://github.com/user-attachments/assets/2d19b1ad-4a67-4a26-a755-e5b0012b5466)
 ![image](https://github.com/user-attachments/assets/13de5c9d-c915-4be8-a34e-4002dc758070)
 
 
 ### 📅 Interview Allocation  
-- Candidates successfully assigned to interviewers.  
-- Number of interview slots scheduled.  
+
+![image](https://github.com/user-attachments/assets/13e4b3f8-3fda-4b62-939d-4b8360d31e4b)
+
 
 
 ## 📌 Installation & Usage  
