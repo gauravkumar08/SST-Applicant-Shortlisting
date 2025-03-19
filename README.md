@@ -35,13 +35,17 @@ A student is shortlisted if:
 
 ## 🏆 Results  
 
+![image](https://github.com/user-attachments/assets/f30e96a7-6301-4ff6-8964-7b74936bff6c)
+![image](https://github.com/user-attachments/assets/c334dfbf-6975-4615-ae83-69927bb1332f)
+
 ### ✅ Shortlisted Applicants  
-- The number of students meeting the eligibility criteria.  
-- List of top-performing students based on scores.  
+
+![image](https://github.com/user-attachments/assets/066d31a8-5613-429d-904d-9cd59d2c1572) 
 
 ### 📉 Performance Insights  
-- The average X and XII scores of the applicants.  
-- Percentage of students shortlisted vs. total applicants.  
+
+![image](https://github.com/user-attachments/assets/13de5c9d-c915-4be8-a34e-4002dc758070)
+
 
 ### 📅 Interview Allocation  
 - Candidates successfully assigned to interviewers.  
