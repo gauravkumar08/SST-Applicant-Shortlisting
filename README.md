@@ -52,11 +52,30 @@ A student is shortlisted if:
 
 ![image](https://github.com/user-attachments/assets/13e4b3f8-3fda-4b62-939d-4b8360d31e4b)
 
-
-
 ## 📌 Installation & Usage  
+
 ### 🔧 Prerequisites  
-Ensure you have **Python 3.x** installed along with the required libraries:  
+Ensure you have **Python 3.x** installed along with the required libraries.  
+
+### 📦 Install Dependencies  
+Run the following command to install the necessary packages:  
 
 ```bash
 pip install pandas matplotlib seaborn tabulate openpyxl
+```
+
+### 🚀 Running the Script  
+Execute the script using:  
+
+```bash
+python test.py
+
+🛠 Technologies Used
+
+- Python 🐍  
+- Pandas 📊  
+- Matplotlib & Seaborn 📈  
+- Tabulate 📝  
+- OpenPyXL (for Excel file handling)  
+
+
