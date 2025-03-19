@@ -69,8 +69,9 @@ Execute the script using:
 
 ```bash
 python test.py
+```
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Python 🐍  
 - Pandas 📊  
